@@ -1,0 +1,54 @@
+{
+    "id": "101",
+    "name": "IPhone",
+    "desc": "IPhone",
+    "category": "Mobile",
+    "variant": [
+        {
+            "code": "15",
+            "colour": [
+                "red",
+                "blue",
+                "metalic"
+            ],
+            "price": "800",
+            "currency": "£",
+            "capacity": [
+                "32",
+                "64",
+                "128"
+            ]
+        },
+        {
+            "code": "15Pro",
+            "colour": [
+                "red",
+                "blue",
+                "metalic"
+            ],
+            "price": "1000",
+            "currency": "£",
+            "capacity": [
+                "32",
+                "64",
+                "128"
+            ]
+        },
+        {
+            "code": "15ProMax",
+            "colour": [
+                "red",
+                "blue",
+                "metalic"
+            ],
+            "price": "1200",
+            "currency": "£",
+            "capacity": [
+                "32",
+                "64",
+                "128"
+            ]
+        }
+    ],
+    "date": "2024-02-06"
+}   
